@@ -66,8 +66,6 @@ Recall High Risk: 69%
 
 Recall Low Risk: 40%
 
-<img width="733" alt="UnderSampling" src="https://user-images.githubusercontent.com/107282754/196040096-4dfbedf9-075c-4b87-9f30-3f923f664005.png">
-
 ### Use SMOTEENN Algorithm to Predict Credit Risk
 
 #### Combination Over/Under Sampling
