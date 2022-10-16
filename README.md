@@ -27,9 +27,13 @@ In this project will be using machine learning to evaluate credit card risk by e
 #### Naive_Random_Oversampling
 
 Accuracy Score: 63.8%
+
 Precision High Risk: 1%
+
 Precision Low Risk: 100%
+
 Recall High Risk: 61%
+
 Recall Low Risk: 66%
 
 <img width="761" alt="Native_Random_OverSampling" src="https://user-images.githubusercontent.com/107282754/196039807-2b68a3dd-14e7-4841-96d5-fe0f6faab9f8.png">
