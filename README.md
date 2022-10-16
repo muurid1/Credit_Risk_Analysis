@@ -26,6 +26,8 @@ In this project will be using machine learning to evaluate credit card risk by e
 
 #### Naive_Random_Oversampling
 
+<img width="761" alt="Native_Random_OverSampling" src="https://user-images.githubusercontent.com/107282754/196039807-2b68a3dd-14e7-4841-96d5-fe0f6faab9f8.png">
+
 Accuracy Score: 63.8%
 
 Precision High Risk: 1%
@@ -36,9 +38,9 @@ Recall High Risk: 61%
 
 Recall Low Risk: 66%
 
-<img width="761" alt="Native_Random_OverSampling" src="https://user-images.githubusercontent.com/107282754/196039807-2b68a3dd-14e7-4841-96d5-fe0f6faab9f8.png">
-
 #### SMOTE_Oversampling
+
+<img width="720" alt="SMOTE_Oversampling" src="https://user-images.githubusercontent.com/107282754/196039931-89df9852-920b-40c3-acae-6e5cd8393a88.png">
 
 Accuracy Score: 65.89%
 
@@ -50,9 +52,9 @@ Recall High Risk: 62%
 
 Recall Low Risk: 69%
 
-<img width="720" alt="SMOTE_Oversampling" src="https://user-images.githubusercontent.com/107282754/196039931-89df9852-920b-40c3-acae-6e5cd8393a88.png">
-
 #### Cluster_Centroid_Undersampling
+
+<img width="733" alt="UnderSampling" src="https://user-images.githubusercontent.com/107282754/196040096-4dfbedf9-075c-4b87-9f30-3f923f664005.png">
 
 Accuracy Score: 65.89%
 
@@ -70,6 +72,8 @@ Recall Low Risk: 40%
 
 #### Combination Over/Under Sampling
 
+<img width="745" alt="Combination _Over_Under_Sampling" src="https://user-images.githubusercontent.com/107282754/196040177-733da059-a165-4331-8658-45d87425833f.png">
+
 Accuracy Score: 64.82%
 
 Precision High Risk: 1%
@@ -79,8 +83,6 @@ Precision Low Risk: 100%
 Recall High Risk: 72%
 
 Recall Low Risk: 57%
-
-<img width="745" alt="Combination _Over_Under_Sampling" src="https://user-images.githubusercontent.com/107282754/196040177-733da059-a165-4331-8658-45d87425833f.png">
 
 ### Use Ensemble Classifiers to Predict Credit Risk
 
