@@ -114,3 +114,14 @@ Recall High Risk: 92%
 Recall Low Risk: 94%
 
 ## Summary
+
+We have used 6 differents machine learning models to determine which one is the best at predicting the highest risk loan. The model with the best balance of recall and precision as well as accuracy is the Easy Ensemble with the following data: accuracy score: 93.16%; precision high risk: 1%; precision low risk: 100%; recall high risk: 92% ;recall low risk: 94%.
+In this case, we would recommend the Easy_Ensemble_Classifier.
+
+
+
+
+
+
+
+
